@@ -17,3 +17,5 @@
 # libwg
 libwg/libwg.a
 libwg/libwg.h
+
+.vscode/
